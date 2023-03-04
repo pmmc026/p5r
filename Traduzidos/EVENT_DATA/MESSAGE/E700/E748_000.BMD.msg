@@ -184,7 +184,7 @@
 [msg MSG_051_0_0 [Presentatore dello spettacolo]]
 [s][vp 8 0 0 55 65535 0]Um raro vislumbre do lado[n]feminino da nossa[n]linda Senhorita Presidente![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 56 65535 0]Mas eu sou um cavalheiro. Me dói intimidar[n]uma garota tão doce![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 57 65535 0]Bem, vocês gostaram da nossa[n]beleza tímida?[n]Muito obrigado, senhorita presidente![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 57 65535 0]Bem, vocês gostaram da nossa[n]bela tímida aqui?[n]Muito obrigado, senhorita presidente![n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [(SE)秀尽学園生徒]]
 [s][vp 8 0 0 0 65535 0](ブーイング)[n][f 1 3 65535][w][e]

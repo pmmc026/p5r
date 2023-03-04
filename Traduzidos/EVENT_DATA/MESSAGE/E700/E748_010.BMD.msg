@@ -31,7 +31,7 @@
 [s][bup 0 7 1 2 0][f 4 10 65535 0 0][vp 8 0 0 8 65535 0][f 5 13 4 5 7]Já. Eu estava ansioso por essa[n]festa, então vamos aproveitar.[n][f 1 3 65535][w][e]
 
 [msg MSG_008_0_0 [Presentatore dello spettacolo]]
-[s][vp 8 0 0 9 65535 0]E agora, é hora da sua[n]tradição Shujin favorita:[n]o Evento Especial de Partilha![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 9 65535 0]E agora, é hora da sua[n]tradição de Shujin favorita:[n]o Evento Especial de Partilha![n][f 1 3 65535][w][e]
 [s][vp 8 0 0 10 65535 0]Muitos aplausos, pessoal![n][f 1 3 65535][w][e]
 
 [msg MSG_009_0_0 [(SE)秀尽学園生徒]]
@@ -42,8 +42,8 @@
 [s][bup 0 7 1 2 0][f 4 10 65535 0 0][f 4 24 0 4 0 36 5 100][vp 8 0 0 12 65535 0]Eu não sabia que tínhamos um[n]evento semelhante.[n][f 1 3 65535][w][e]
 
 [msg MSG_011_0_0 [Presentatore dello spettacolo]]
-[s][vp 8 0 0 13 65535 0]Bem, quem quer dizer alguma coisa?[n]Alguém, ninguém!?![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 17 65535 0]Não? Então terei que[n]escolher alguém![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 13 65535 0]Beleza, quem aqui tem algo a dizer?[n]Alguém, ninguém!?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 17 65535 0]Não? Então terei que escolher alguém![n][f 1 3 65535][w][e]
 
 [msg MSG_016_0_0 [Haru]]
 [s][bup 0 7 0 2 0][f 4 10 65535 0 0][vp 8 0 0 19 65535 0]Ooh, ela vai escolher ele?[n]Quem sabe quem será o sortudo...[n][f 1 3 65535][w][e]
@@ -110,7 +110,7 @@
 
 [msg MSG_035_0_0 [Presentatore dello spettacolo]]
 [s][vp 8 0 0 39 65535 0]Errr... Então deixe-me[n]fazer uma pergunta...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 40 65535 0]Você acha que os Phantom Thieves são[n]realmente estudantes Shujin?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 40 65535 0]Você acha que os Phantom Thieves são[n]realmente estudantes de Shujin?[n][f 1 3 65535][w][e]
 
 [msg MSG_036_0_0 [Haru]]
 [s][f 4 17 1 65535 65535 65535 65535 65535 65535 65535 7 7 301 1][vp 8 0 0 41 65535 0]Hã?[n][f 1 3 65535][w][e]
@@ -119,9 +119,9 @@
 [s][vp 8 0 0 0 65535 0](観衆のざわめき)[n][f 1 3 65535][w][e]
 
 [msg MSG_038_0_0 [Presentatore dello spettacolo]]
-[s][vp 8 0 0 43 65535 0]Quero dizer, eles são...um...[n]os assassinos de seu pai...[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 45 65535 0]Estamos todos morrendo de vontade de[n]saber o que Akechi-kun[n]iria dizer sobre suas verdadeiras identidades.[n][f 1 3 65535][w][e]
-[s][vp 8 0 0 46 65535 0]Então, eu sou mesmo de Shujin?[n]O que você acha, Okumura-san?[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 43 65535 0]Quero dizer, eles são...uh...[n]os assassinos do seu pai...[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 45 65535 0]Estamos todos morrendo de vontade de[n]saber o que Akechi-kun[n]iria dizer sobre suas reais identidades.[n][f 1 3 65535][w][e]
+[s][vp 8 0 0 46 65535 0]Então, eles são mesmo de Shujin?[n]O que você acha, Okumura-san?[n][f 1 3 65535][w][e]
 
 [msg MSG_039_0_0 [Haru]]
 [s][bup 0 7 3 2 0][f 4 10 65535 0 0][vp 8 0 0 44 65535 0]Erm...[n][f 1 3 65535][w][e]
@@ -134,8 +134,8 @@
 [s][bup 0 7 3 2 0][f 4 10 65535 0 0][vp 8 0 0 47 65535 0]Bem...[n][f 1 3 65535][w][e]
 
 [sel SEL_037_7_0 top]
-[s]Você tem o menino!?![e]
-[s]Saia comigo![e]
+[s]Você tem namorado!?[e]
+[s]Vamos ficar![e]
 [s]Eu sempre te amei![e]
 
 [msg MSG_040_0_0 [Haru]]
@@ -149,13 +149,13 @@
 
 [msg MSG_043_0_0 [Presentatore dello spettacolo]]
 [s][vp 8 0 0 70 65535 0]Oooo![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 69 65535 0]Como uma faca quente na manteiga,[n]uma proposta perfurou o[n]silêncio![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 69 65535 0]Como uma faca quente na manteiga,[n]um pedido perfurou o[n]silêncio![n][f 1 3 65535][w][e]
 
 [msg MSG_044_0_0 [Haru]]
 [s][bup 0 7 4 65535 0][f 4 10 65535 0 0][vp 8 0 0 66 65535 0]O quê!?![n][f 1 3 65535][w][e]
 
 [msg MSG_045_0_0 [Presentatore dello spettacolo]]
-[s][vp 8 0 0 71 65535 0]Torção! Um menino apanhado[n]no aperto agridoce da juventude![n]Uma chocante confissão de amor![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 71 65535 0]Agora ficou bom! Um garoto preso[n]pelas amarras da sofrência de um jovem![n]Uma chocante confissão de amor![n][f 1 3 65535][w][e]
 
 [msg MSG_046_0_0 [(SE)秀尽学園生徒]]
 [s][vp 8 0 0 0 65535 0](春と主人公へのヤジ)[n][f 1 3 65535][w][e]
@@ -170,18 +170,18 @@
 [s][vp 8 0 0 55 65535 0]Bem, Okumura-san![n]Qual é a relação entre vocês dois?[n][f 1 3 65535][w][e]
 
 [msg MSG_049_0_0 [Haru]]
-[s][bup 0 7 3 2 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]N-Não é disso que[n]estamos falando...[n][f 1 3 65535][w][e]
+[s][bup 0 7 3 2 0][f 4 10 65535 0 0][vp 8 0 0 56 65535 0]N-Não é disso que[n]estávamos falando...[n][f 1 3 65535][w][e]
 
 [msg MSG_050_0_0 [Presentatore dello spettacolo]]
-[s][vp 8 0 0 57 65535 0]Oh Deus, ela ficou toda excitada![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 58 65535 0]Isso é uma colher quente!?![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 57 65535 0]Oh Deus, ela ficou toda ansiosa![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 58 65535 0]Isso é fofoca nova!?![n][f 1 3 65535][w][e]
 
 [msg MSG_051_0_0 [(SE)秀尽学園生徒]]
 [s][vp 8 0 0 0 65535 0](歓声)[n][f 1 3 65535][w][e]
 
 [msg MSG_052_0_0 [Presentatore dello spettacolo]]
-[s][vp 8 0 0 59 65535 0]Mas eu sou um cavalheiro. É[n]quebra meu coração cutucar[n]uma garota tão doce![n][f 1 3 65535][w][e]
-[s][vp 8 0 0 60 65535 0]Bem, vocês gostaram dessa nossa beleza tímida?[n]Muito obrigado, Okumura-san![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 59 65535 0]Mas eu sou um cavalheiro. Me dói intimidar[n]uma garota tão doce![n][f 1 3 65535][w][e]
+[s][vp 8 0 0 60 65535 0]Bem, vocês gostaram da nossa[n]bela tímida aqui?[n]Muito obrigado, Okumura-san![n][f 1 3 65535][w][e]
 
 [msg MSG_053_0_0 [(SE)秀尽学園生徒]]
 [s][vp 8 0 0 0 65535 0](ブーイング)[n][f 1 3 65535][w][e]
